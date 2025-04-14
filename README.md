@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdul-azeem-lotfy-el-sharkawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-azeem-lotfy-el-sharkawy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdul-azeem-lotfy-el-sharkawy-aa42b6290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-azeem-lotfy-el-sharkawy" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/30271892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30271892" height="30" width="40" /></a>
 <a href="https://kaggle.com/abdulazeemlotfy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdulazeemlotfy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abdul-azeem_lotfy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdul-azeem_lotfy" height="30" width="40" /></a>
