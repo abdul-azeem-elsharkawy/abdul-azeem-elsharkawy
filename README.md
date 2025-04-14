@@ -1,10 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdul-Azeem</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Abdul-Azeem</h1>
 <h3 align="center">I'm a Biomedical Engineering student with a passion for electronics, programming, and AI.</h3>
-
-<h3 align="center">
-Welcome to Abdul Azeem's profile!
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
 
 - 🌱 I’m currently learning **Python, Data Science, Computer Vision, Machine Learning, and Deep Learning.**
 
