@@ -1,48 +1,27 @@
+<h1 align="center">Hi 👋, I'm Abdul-Azeem</h1>
+<h3 align="center">I'm a Biomedical Engineering student with a passion for electronics, programming, and AI.</h3>
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+- 🌱 I’m currently learning **Python, Data Science, Computer Vision, Machine Learning, and Deep Learning.**
 
-<h3 align="center">
-  Welcome to Abdul Azeem's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+- 💬 Ask me about **Ask me about my projects in electronics, or programming, and I'd be happy to share my experience.**
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Science%20-%20AI;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+- 📫 How to reach me **abdulazeemlotfyelsharkawy@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ak56B_AFHHiKPYgdiPoBivLUvLNeG6Zt/view?usp=sharing](https://drive.google.com/file/d/1ak56B_AFHHiKPYgdiPoBivLUvLNeG6Zt/view?usp=sharing)
+
+- ⚡ Fun fact **I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abdul-azeem-lotfy-el-sharkawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-azeem-lotfy-el-sharkawy" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/30271892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30271892" height="30" width="40" /></a>
+<a href="https://kaggle.com/abdulazeemlotfy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdulazeemlotfy" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abdul-azeem_lotfy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdul-azeem_lotfy" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@abdulazeemlotfy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@abdulazeemlotfy1" height="30" width="40" /></a>
+<a href="https://discord.gg/3zema_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3zema_1" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-
-- 🏢 I'm a Biomedical Engineering student with a passion for electronics, programming, and AI.  
-- 👨‍💻 Constantly learning and exploring technologies like Python, Data Analysis, Computer Vision, Machine Learning, and Deep Learning to enhance my skills.  
-- 💬 Ask me about my projects in electronics, or programming, and I'd be happy to share my experience.  
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-
-
-### Connect with Me :
-
-<a href="https://linkedin.com/in/abdul-azeem-lotfy-elsharkawy-aa42b6290/" target="_blank">
-    <img src="https://img.shields.io/badge/-Abdul%20Azeem%20El--Sharkawy-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-</a>
-<a href="https://t.me/Azema_ElSharkawy" target="_blank">
-    <img src="https://img.shields.io/badge/-Abdul%20Azeem%20El--Sharkawy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
-</a>
-
-
-### 🛠 &nbsp;What I Work With
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=mathworks)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)&nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=150458)&nbsp;
-![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8)&nbsp;
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E)&nbsp;
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-azeem-elsharkawy&show_icons=true&locale=en" alt="abdul-azeem-elsharkawy" /></p>
