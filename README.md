@@ -20,7 +20,7 @@
 <a href="https://stackoverflow.com/users/30271892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30271892" height="30" width="40" /></a>
 <a href="https://kaggle.com/abdulazeemlotfy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdulazeemlotfy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abdul-azeem_lotfy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdul-azeem_lotfy" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@abdulazeemlotfy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@abdulazeemlotfy1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/abdulazeemlotfy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@abdulazeemlotfy1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
