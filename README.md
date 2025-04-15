@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **abdulazeemlotfyelsharkawy@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1ak56B_AFHHiKPYgdiPoBivLUvLNeG6Zt/view?usp=sharing)
-
 - ⚡ Fun fact **I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.**
 
 <h3 align="left">Connect with me:</h3>
